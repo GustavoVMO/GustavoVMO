@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Morais</h1>
 <h3 align="center">A passionate Data Engineer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gifcid=ecf05e47ajp4ivrp7h17sy35qter4rlgp2w880li5ryikr4k&rid=giphy.gif&ct=g)">
+<img align="right" alt="DATAEVERYWHERE" width="400" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
 - 🔭 I’m currently working on **XP Investments company**
 
